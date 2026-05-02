@@ -1,0 +1,44 @@
+# Model files
+*.onnx
+*.pb
+*.h5
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output files
+output/*.mp4
+output/*.avi
+results/*.json
+results/*.csv
+
+# Videos (too large for git)
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+videos/*.mkv
