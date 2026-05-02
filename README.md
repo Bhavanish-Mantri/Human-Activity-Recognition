@@ -249,11 +249,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- [Kinetics-400 Dataset](https://deepmind.com/research/open-source/kinetics) — DeepMind
-- [OpenCV DNN Module](https://docs.opencv.org/4.x/d2/d58/tutorial_table_of_content_dnn.html)
-- [ONNX Model Format](https://onnx.ai/)
-- [ResNet Paper](https://arxiv.org/abs/1512.03385) — He et al.
+- [Kinetics-400 Dataset](https://deepmind.com/research/open-source/kinetics) — DeepMind  
+- [OpenCV DNN Module](https://docs.opencv.org/4.x/d2/d58/tutorial_table_of_content_dnn.html) — OpenCV  
+- [ONNX Model Format](https://onnx.ai/) — ONNX  
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) — Kaiming He et al.  
 
 ---
-
-**Built with ❤️ for AI/ML Portfolio**
